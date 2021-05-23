@@ -6,11 +6,11 @@ class script(object):
 ഇത് @Movievibezz നു വേണ്ടി ഉണ്ടാക്കിയ ഒരു Auto-Filter Bot ആണ്. 
 Join Fast 
 @Movievibezz
-For more click <i>help</i></b>"""
+<i>help</i></b>"""
 
 
-    HELP_MSG = """<b>®®</b>
-<
+    HELP_MSG = """<b>sorry</b>
+
 <b>© @Movievibezz</b>"""
 
 
@@ -20,7 +20,7 @@ For more click <i>help</i></b>"""
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Group  :</b> <a @Movievibezz </a> 
 
-
+Join here
 """
